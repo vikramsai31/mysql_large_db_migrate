@@ -16,7 +16,7 @@ ruby mysql_to_rds.rb
 ```
 
 ###Disclaimer
- Please use at your own risk.
+I used this regularly.Wouldn't say this is completely tested ,please use at your own risk.
 
 
 </content>
